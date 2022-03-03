@@ -84,7 +84,7 @@ const Hero = () => {
                         title="Demo video showcasing Supabase"
                         className="absolute w-full h-full rounded-b-md"
                         style={{ top: 0, left: 0 }}
-                        autoplay
+                        autoPlay
                         muted
                         loop
                       >
