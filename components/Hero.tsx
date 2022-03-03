@@ -84,7 +84,6 @@ const Hero = () => {
                         title="Demo video showcasing Supabase"
                         className="absolute w-full h-full rounded-b-md"
                         style={{ top: 0, left: 0 }}
-                        onClick="this.muted = false"
                       >
                         <source 
                           src="videos/open99Intro.mp4"
