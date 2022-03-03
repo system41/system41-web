@@ -240,12 +240,12 @@ const Nav = () => {
                 </div>
               </div>
               <div className="hidden lg:flex items-center sm:space-x-3">
-                <a href="https://github.com/supabase/supabase" target="_blank">
+                <a href="https://github.com/system41" target="_blank">
                   <Button
                     className="sbui-btn sbui-btn-text sbui-btn--tiny sbui-btn--text-align-center"
                     icon={<IconStar />}
                   >
-                    Star us on GitHub
+                    Find us on github
                   </Button>
                 </a>
                 <a href="https://app.supabase.io/">
