@@ -97,5 +97,12 @@
     "position": "Engineering",
     "username": "olirice",
     "author_image_url": "https://github.com/olirice.png"
+  },
+  "its-pablo": {
+    "author": "its-pablo",
+    "author_url": "https://github.com/its-pablo",
+    "position":"CEO and project leader",
+    "username": "its-pablo",
+    "author_image_url": "https://github.com/its-pablo.png"
   }
 }
