@@ -84,12 +84,12 @@ const Hero = () => {
                         title="Demo video showcasing Supabase"
                         className="absolute w-full h-full rounded-b-md"
                         style={{ top: 0, left: 0 }}
+                        autoplay
+                        muted
+                        loop
                       >
                         <source 
                           src="videos/open99Intro.mp4"
-                          autoplay
-                          muted
-                          loop
                           type="video/mp4"
                         />
                       </video>
