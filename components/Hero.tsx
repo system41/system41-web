@@ -77,6 +77,7 @@ const Hero = () => {
                         autoPlay
                         muted
                         loop
+                        onClick={function(){this.muted = false}}
                       >
                         <source src="videos/open99Intro.mp4" type="video/mp4" />
                       </video>
