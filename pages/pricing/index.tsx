@@ -11,7 +11,7 @@ import pricingFaq from '~/data/PricingFAQ.json'
 import ReactMarkdown from 'react-markdown'
 import CTABanner from '~/components/CTABanner'
 
-import Solutions from 'data/Solutions.json'
+import Solutions from 'data/Products.json'
 import { NextSeo } from 'next-seo'
 
 export default function IndexPage() {

@@ -1,5 +1,5 @@
 import React from 'react'
-import SolutionsData from 'data/Solutions.json'
+import SolutionsData from 'data/Products.json'
 import CaseStudiesData from 'data/CaseStudies.json'
 import { useRouter } from 'next/router'
 import ProductIcon from '../ProductIcon'

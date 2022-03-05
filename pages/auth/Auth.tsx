@@ -13,7 +13,7 @@ import {
 } from '@supabase/ui'
 import ApiExamples from 'data/products/auth/auth-api-examples'
 import AuthSqlRulesExamples from 'data/products/auth/auth-sql-rules-examples'
-import Solutions from 'data/Solutions.json'
+import Solutions from 'data/Products.json'
 import { NextSeo } from 'next-seo'
 import Image from 'next/image'
 import Link from 'next/link'

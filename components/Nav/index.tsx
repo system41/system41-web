@@ -6,7 +6,7 @@ import { Button, Badge, IconStar } from '@supabase/ui'
 import FlyOut from '~/components/UI/FlyOut'
 import Transition from 'lib/Transition'
 
-import SolutionsData from 'data/Solutions.json'
+import SolutionsData from 'data/Products.json'
 
 import Solutions from '~/components/Nav/Product'
 import Developers from '~/components/Nav/Developers'
