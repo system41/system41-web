@@ -1,2 +1,2 @@
-export const APP_NAME = 'Supabase'
-export const DESCRIPTION = 'The Open Source Alternative to Firebase.'
+export const APP_NAME = 'System41'
+export const DESCRIPTION = 'The open-source organization revolutionizing the internet.'
